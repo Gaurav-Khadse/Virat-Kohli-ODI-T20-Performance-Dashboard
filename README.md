@@ -25,7 +25,8 @@ This Power BI project is structured around several key insights to showcase Vira
 - Average Run Rate Over His Career
 
 ## Dashboard
-<img width="1447" height="807" alt="Screenshot 2025-07-26 175822" src="https://github.com/user-attachments/assets/1ae6e4ac-0b6e-4317-acea-930e3429eae6" />
+<img width="1446" height="807" alt="Virat" src="https://github.com/user-attachments/assets/cad55962-f2dc-4520-8d64-e9245e8e5e79" />
+
 
 The dashboard includes:
 
