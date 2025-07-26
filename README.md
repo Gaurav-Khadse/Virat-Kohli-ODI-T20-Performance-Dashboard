@@ -6,34 +6,34 @@ Virat Kohli, one of the most celebrated cricketers of our time, has consistently
 ## Project Objectives 💡
 This Power BI project is structured around several key insights to showcase Virat Kohli’s cricketing excellence:
 
-Total Runs Across All Matches and Years
+- Total Runs Across All Matches and Years
 
-Maximum Runs Against Top Opponent Teams
+- Maximum Runs Against Top Opponent Teams
 
-Top 5 Grounds Where He Scored the Most Runs
+- Top 5 Grounds Where He Scored the Most Runs
 
-Best Performances by Ground and Country
+- Best Performances by Ground and Country
 
-Year-wise and Month-wise Runs Analysis
+- Year-wise and Month-wise Runs Analysis
 
-Total Number of Matches Played
+- Total Number of Matches Played
 
-Highest Individual Score
+- Highest Individual Score
 
-Average Run Rate Over His Career
+- Average Run Rate Over His Career
 
 ## Dashboard
 The dashboard includes:
 
-A Year Selector to view performance trends year-wise
+- A Year Selector to view performance trends year-wise
 
-Bar charts for Top 5 Grounds and Runs Against Opponents
+- Bar charts for Top 5 Grounds and Runs Against Opponents
 
-Detailed tables with Month-wise Run Stats
+- Detailed tables with Month-wise Run Stats
 
-Key KPIs such as Total Matches, Total Runs, Max Runs in a Match, and Average Run Rate
+- Key KPIs such as Total Matches, Total Runs, Max Runs in a Match, and Average Run Rate
 
-Insights into Top Ground-wise Performances by Country
+- Insights into Top Ground-wise Performances by Country
 
 ## Visualization Tools
 Tool Used: Power BI
