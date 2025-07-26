@@ -1,4 +1,5 @@
 # 🏏Virat Kohli ODI T20 Performance Dashboard.
+<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/fe3062ad-895a-4749-a9eb-75fd25db8e2b" />
 
 
 ## Introduction
