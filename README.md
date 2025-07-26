@@ -49,6 +49,18 @@ Visuals Used: Bar Charts, KPI Cards, Tables, Slicers, and Custom Background Desi
 ## Conclusion
 In the era of data-driven sports analytics, this Virat Kohli Performance Dashboard serves as a powerful tool for cricket enthusiasts, analysts, and selectors. It simplifies complex performance metrics into clear visuals, providing a complete view of Kohli's dominance over the years and across global cricketing venues. Dive into the data to discover how consistency, skill, and strategy have made Virat Kohli a legend in modern cricket.
 
+Based on the data analysis:
+- Virat Kohli scored the highest total runs at Wankhede (931) and Visakhapatnam (879).
+
+- His top individual score was 254, with a consistent average run rate of 45.95 across 516 matches.
+
+- He performed exceptionally well in Adelaide (Australia - 721 runs) and Ahmedabad (England - 291 runs).
+
+- Maximum runs were scored against Sri Lanka (254), England (243), and New Zealand (235).
+
+Final Insight:
+"To maximize match impact, prioritize fixtures at Wankhede and Visakhapatnam, where Kohli thrives, and focus on strategic plays against Sri Lanka, England, and New Zealand—teams against whom he consistently delivers top-tier performances."
+
 💬 Feel free to reach out for questions, feedback, or suggestions related to this project. I’m always open to discussions and collaborations.
 📍 LinkedIn | Gaurav Khadse
 
