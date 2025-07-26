@@ -1,4 +1,5 @@
-# Virat Kohli ODI T20 Performance Dashboard.
+# 🏏Virat Kohli ODI T20 Performance Dashboard.
+
 
 ## Introduction
 Virat Kohli, one of the most celebrated cricketers of our time, has consistently dominated the ODI and T20 formats with his exceptional batting prowess. To gain a comprehensive understanding of his performance trajectory, we built a Virat Kohli Performance Index Dashboard using Power BI. This dashboard provides a deep dive into his career statistics across various grounds, opponents, and years, enabling fans, analysts, and sports strategists to explore his data-driven cricketing journey.
